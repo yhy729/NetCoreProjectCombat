@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace NetCoreProjectCombat
 {
+    //Core 2.0
     public class Startup
     {
         // This method gets called by the runtime. Use this method to add services to the container.
